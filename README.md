@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">🚀 Developer | AI & Finance Enthusiast</h3>
 
 ---
